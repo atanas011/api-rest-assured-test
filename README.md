@@ -15,3 +15,4 @@ User story:
 5. Log request and response details
 6. Verify response body
 7. Verify place names with parameterized test
+8. Create reusable variables
