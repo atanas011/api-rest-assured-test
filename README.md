@@ -10,3 +10,7 @@ User story:
 
 1. Go to http://zippopotam.us/us/90210
 2. Verify place name
+3. Verify response status code
+4. Verify response content type
+5. Log request and response details
+6. Verify response body
