@@ -14,3 +14,4 @@ User story:
 4. Verify response content type
 5. Log request and response details
 6. Verify response body
+7. Verify place names with parameterized test
